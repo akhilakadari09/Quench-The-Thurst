@@ -1,2 +1,5 @@
 # Quench-The-Thurst
-a game on water conservation   
+A game on water conservation   
+⚫Html
+⚫Css
+⚫Javascript(Basic)
